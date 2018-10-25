@@ -3,7 +3,7 @@ language: bash
 before_install:
   - sudo pip install -r thog_requirements.txt
   - wget https://raw.githubusercontent.com/lookcrabs/TruffleHog_Scripts/master/th_wrapper.py
-  - python th_wrapper.py -w truffles.json -c thog_config.json -g file:///${PWD}/ --check
+  - python th_wrapper.py -w truffles.json -c thog_config.json -g file://${PWD} --check
 
 script:
-  - bash ./test_sript.sh
+  - bash ${PWD}/test_sript.sh
