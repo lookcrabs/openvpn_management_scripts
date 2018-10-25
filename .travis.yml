@@ -6,4 +6,4 @@ before_install:
   - python th_wrapper.py -w truffles.json -c thog_config.json -g file://${PWD} --check
 
 script:
-  - bash ${PWD}/test_sript.sh
+  - bash ${PWD}/test_script.sh
