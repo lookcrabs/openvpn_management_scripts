@@ -1,0 +1,72 @@
+[
+    {
+        "branch": "origin/master",
+        "commit": "34abdafa9867493bf9ec2864ad906fc133a8e0a953c165bf8ee741df1fca34c0",
+        "commitHash": "da644dc3ddba11815bccf38143666dcc7274bd7f",
+        "diff": "13a2b1f4cf9efbc84fc8569a328d4ddd60c4a5dcb47d509742ed6bb904234872",
+        "path": "create_ovpn.sh",
+        "printDiff": "6b87778a162636c2fa56d227d89ddc611ddf2ce53c4f75843487ec84f81cadef",
+        "reason": "High Entropy",
+        "stringsFound": [
+            "CFu16mbHeYnW8QYTvpOGLQliz6sqYIEJFrSl/5BdWTxXnsfqGO",
+            "1APvlR1Ontv3SJapwMl44YTLCzgEAuvKOUfFMlhvJE43pqBwbw",
+            "e0cmB/3r7SskfeQNIekofLBSTMisWHrvLagfHoZugY1BK1U7my"
+        ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "da68f54607d5f5644954096ce1597c006c5bb9f2497e07441bf064b81003ef8a",
+        "commitHash": "44b9440eb8767d0d6b1da5049fd88114a4bae4d6",
+        "diff": "abf3dc6091b11d9bdd087324a74c351833c4ec1cde8234bca97a9a1d009fe9b0",
+        "path": "create_ovpn.sh",
+        "printDiff": "910954b027597a5a2324d922be1f1ea5b7870f4a58447dccb3def5a5ad3a76d8",
+        "reason": "High Entropy",
+        "stringsFound": [
+            "CFu16mbHeYnW8QYTvpOGLQliz6sqYIEJFrSl/5BdWTxXnsfqGO",
+            "1APvlR1Ontv3SJapwMl44YTLCzgEAuvKOUfFMlhvJE43pqBwbw",
+            "e0cmB/3r7SskfeQNIekofLBSTMisWHrvLagfHoZugY1BK1U7my"
+        ]
+    },
+    {
+        "branch": "origin/2fa-unified",
+        "commit": "da68f54607d5f5644954096ce1597c006c5bb9f2497e07441bf064b81003ef8a",
+        "commitHash": "44b9440eb8767d0d6b1da5049fd88114a4bae4d6",
+        "diff": "abf3dc6091b11d9bdd087324a74c351833c4ec1cde8234bca97a9a1d009fe9b0",
+        "path": "create_ovpn.sh",
+        "printDiff": "910954b027597a5a2324d922be1f1ea5b7870f4a58447dccb3def5a5ad3a76d8",
+        "reason": "High Entropy",
+        "stringsFound": [
+            "CFu16mbHeYnW8QYTvpOGLQliz6sqYIEJFrSl/5BdWTxXnsfqGO",
+            "1APvlR1Ontv3SJapwMl44YTLCzgEAuvKOUfFMlhvJE43pqBwbw",
+            "e0cmB/3r7SskfeQNIekofLBSTMisWHrvLagfHoZugY1BK1U7my"
+        ]
+    },
+    {
+        "branch": "origin/feat/install_script",
+        "commit": "da68f54607d5f5644954096ce1597c006c5bb9f2497e07441bf064b81003ef8a",
+        "commitHash": "44b9440eb8767d0d6b1da5049fd88114a4bae4d6",
+        "diff": "abf3dc6091b11d9bdd087324a74c351833c4ec1cde8234bca97a9a1d009fe9b0",
+        "path": "create_ovpn.sh",
+        "printDiff": "910954b027597a5a2324d922be1f1ea5b7870f4a58447dccb3def5a5ad3a76d8",
+        "reason": "High Entropy",
+        "stringsFound": [
+            "CFu16mbHeYnW8QYTvpOGLQliz6sqYIEJFrSl/5BdWTxXnsfqGO",
+            "1APvlR1Ontv3SJapwMl44YTLCzgEAuvKOUfFMlhvJE43pqBwbw",
+            "e0cmB/3r7SskfeQNIekofLBSTMisWHrvLagfHoZugY1BK1U7my"
+        ]
+    },
+    {
+        "branch": "origin/old_password_based_version",
+        "commit": "da68f54607d5f5644954096ce1597c006c5bb9f2497e07441bf064b81003ef8a",
+        "commitHash": "44b9440eb8767d0d6b1da5049fd88114a4bae4d6",
+        "diff": "abf3dc6091b11d9bdd087324a74c351833c4ec1cde8234bca97a9a1d009fe9b0",
+        "path": "create_ovpn.sh",
+        "printDiff": "910954b027597a5a2324d922be1f1ea5b7870f4a58447dccb3def5a5ad3a76d8",
+        "reason": "High Entropy",
+        "stringsFound": [
+            "CFu16mbHeYnW8QYTvpOGLQliz6sqYIEJFrSl/5BdWTxXnsfqGO",
+            "1APvlR1Ontv3SJapwMl44YTLCzgEAuvKOUfFMlhvJE43pqBwbw",
+            "e0cmB/3r7SskfeQNIekofLBSTMisWHrvLagfHoZugY1BK1U7my"
+        ]
+    }
+]

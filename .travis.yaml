@@ -1,0 +1,26 @@
+nguage: python
+
+python:
+  - "2.7"
+  - "3.6"
+
+matrix:
+ allow_failures:
+   - python: "3.6"
+
+sudo: false
+
+cache: pip
+
+env:
+  - REPOSITORY="lookcrabs/TruffleHog_Scripts" PR_NUMBER="$TRAVIS_PULL_REQUEST"
+
+
+
+before_install:
+  - pip install -r thog_requirements.txt
+  - wget https://raw.githubusercontent.com/lookcrabs/TruffleHog_Scripts/master/th_wrapper.py
+  - python th_wrapper.py -w truffles.json -c thog_config.json -g file:///${PWD}/ --check
+
+script:
+  - true
