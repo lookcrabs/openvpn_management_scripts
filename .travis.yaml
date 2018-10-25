@@ -1,7 +1,6 @@
 language: bash
 
 before_install:
-  - sudo apt-get install -y openvpn easy-rsa
   - pip install -r thog_requirements.txt
   - wget https://raw.githubusercontent.com/lookcrabs/TruffleHog_Scripts/master/th_wrapper.py
   - python th_wrapper.py -w truffles.json -c thog_config.json -g file:///${PWD}/ --check
