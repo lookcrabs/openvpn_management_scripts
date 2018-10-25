@@ -68,5 +68,19 @@
             "1APvlR1Ontv3SJapwMl44YTLCzgEAuvKOUfFMlhvJE43pqBwbw",
             "e0cmB/3r7SskfeQNIekofLBSTMisWHrvLagfHoZugY1BK1U7my"
         ]
+    },
+    {
+        "branch": "origin/remotes/origin/trufflehog_test",
+        "commit": "da68f54607d5f5644954096ce1597c006c5bb9f2497e07441bf064b81003ef8a",
+        "commitHash": "44b9440eb8767d0d6b1da5049fd88114a4bae4d6",
+        "diff": "abf3dc6091b11d9bdd087324a74c351833c4ec1cde8234bca97a9a1d009fe9b0",
+        "path": "create_ovpn.sh",
+        "printDiff": "910954b027597a5a2324d922be1f1ea5b7870f4a58447dccb3def5a5ad3a76d8",
+        "reason": "High Entropy",
+        "stringsFound": [
+            "CFu16mbHeYnW8QYTvpOGLQliz6sqYIEJFrSl/5BdWTxXnsfqGO",
+            "1APvlR1Ontv3SJapwMl44YTLCzgEAuvKOUfFMlhvJE43pqBwbw",
+            "e0cmB/3r7SskfeQNIekofLBSTMisWHrvLagfHoZugY1BK1U7my"
+        ]
     }
 ]
