@@ -82,5 +82,215 @@
             "1APvlR1Ontv3SJapwMl44YTLCzgEAuvKOUfFMlhvJE43pqBwbw",
             "e0cmB/3r7SskfeQNIekofLBSTMisWHrvLagfHoZugY1BK1U7my"
         ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "215057b9b253304a61ed09467ed4ed074504ba53c59dc6f91da688aecc1cb5ff",
+        "commitHash": "1f6c37457aebd94c81a8cb6d35da0e0115487cb4",
+        "diff": "ccb6f32e4d9ea9fdfecd4dfb180c0926655ebbbae53767dd3d5d078cc400e181",
+        "path": "test.password.sh",
+        "printDiff": "12eed1a69f6fbc48e0cbc27cb7014e54896c7e4aaecba32a6289aefc91d7f645",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password ="
+        ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "10db8ff0d80a4998878ba326168d06469cef2a8f98498b01cb1167f0ed28eaa0",
+        "commitHash": "4b73fb13ea63a756df082a8f6d7cfb13c293e45b",
+        "diff": "d8db044400e9959a2613ddb590bdb4332b8cb9990e8032512b239b939cc63eba",
+        "path": "auth-user-pass-verify.py",
+        "printDiff": "99b96b23c2ef62d3532de7667f28cc1f7479dc11c12f2be48c10319f58bb9b42",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password, hashed) =="
+        ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "85f5ffc0d604d1352f2dbaa7145c48099f4d4dee97a819cbb69b69bf89df2493",
+        "commitHash": "6348eba94e1227f2944e9bba3ca7486d5cbb73b6",
+        "diff": "7c249aa38ccf979010e8567eee88a3fdac39445ba9414d6ec0fa51c4b5c2ef8a",
+        "path": "auth-user-pass-verify.py",
+        "printDiff": "99b96b23c2ef62d3532de7667f28cc1f7479dc11c12f2be48c10319f58bb9b42",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password, hashed) =="
+        ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "a075c8fdd4ed9586723652ea642327061ac288421c7ddcf78c3701f012ea1ef6",
+        "commitHash": "8cc4a0df82950ce47e643d5d92ca614526067e16",
+        "diff": "0187829030c6f8e7c9da2fd7f3ddddfd571a903300f3a513013eef0d3069122f",
+        "path": "reset_totp_token.sh",
+        "printDiff": "79e8fe18b1dddd6fb7a4fd42c9042abfefb3f35a935896a9c81807cf388a836d",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password="
+        ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "a075c8fdd4ed9586723652ea642327061ac288421c7ddcf78c3701f012ea1ef6",
+        "commitHash": "8cc4a0df82950ce47e643d5d92ca614526067e16",
+        "diff": "9a3d8abf783b487ffd72a0b6897d0ba57e55450e8c4da1f71e3522abcb028b9c",
+        "path": "send_email.sh",
+        "printDiff": "79e8fe18b1dddd6fb7a4fd42c9042abfefb3f35a935896a9c81807cf388a836d",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password="
+        ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "1e3866c6e3a2103ea4fa2d6c08ffa565b385a2abf0e02ad841ba40103902b142",
+        "commitHash": "dffb3e13e18ab815a8635b89dfb6e5888f9e4326",
+        "diff": "161a7fa32704a8de98102237288b3f47ad25dbc327b853c669e0a43c9ecaa81e",
+        "path": "reset_totp_token.sh",
+        "printDiff": "79e8fe18b1dddd6fb7a4fd42c9042abfefb3f35a935896a9c81807cf388a836d",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password="
+        ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "e280d7737664464e35500d037b5491dfccaa0eaaecf682b9022c6871f0b34200",
+        "commitHash": "8fa5a40a84e19dce2b367cec167906c4852108be",
+        "diff": "af292b7b999b596d7a1df4dafc4f683d8df284c6e76a7a2c645cec3cb1b1393f",
+        "path": "create_vpn_user.sh",
+        "printDiff": "b7d2e72d947dfd1f55a12599374efe4a934923d960a29cfdb6ff06efbf13a30f",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password=$(perl -e 'my $string; my @chars=(\"A\"..\"Z\",\"a\"..\"z\",\"@\",\"_\",\"-\"); while ( not $string =~ /[-_@]/) { $string=\"\"; $string .=",
+            "password_hashed="
+        ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "e280d7737664464e35500d037b5491dfccaa0eaaecf682b9022c6871f0b34200",
+        "commitHash": "8fa5a40a84e19dce2b367cec167906c4852108be",
+        "diff": "f8503ac8e0e66780205fd468500b3bedad8bdf6cb0d15633408ce8dc0a766aa9",
+        "path": "push_to_paste.sh",
+        "printDiff": "79e8fe18b1dddd6fb7a4fd42c9042abfefb3f35a935896a9c81807cf388a836d",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password=",
+            "password="
+        ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "e280d7737664464e35500d037b5491dfccaa0eaaecf682b9022c6871f0b34200",
+        "commitHash": "8fa5a40a84e19dce2b367cec167906c4852108be",
+        "diff": "e4b1efc5de09704862b042309b7ba176546ae3e9f124e79ab513f2a002a2f619",
+        "path": "reset_password.sh",
+        "printDiff": "373e82e7df07d339c2bee59a9c7e892af5157d8e860bf569e61e5cd83a354707",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password=$(perl -e 'my $string; my @chars=(\"A\"..\"Z\",\"a\"..\"z\",\"@\",\"_\",\"-\"); while ( not $string ="
+        ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "e280d7737664464e35500d037b5491dfccaa0eaaecf682b9022c6871f0b34200",
+        "commitHash": "8fa5a40a84e19dce2b367cec167906c4852108be",
+        "diff": "b303d91e242a9269e808faccb69e989360a8379eb2c470ef99f76dc20efc86c3",
+        "path": "send_email.sh",
+        "printDiff": "79e8fe18b1dddd6fb7a4fd42c9042abfefb3f35a935896a9c81807cf388a836d",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password=",
+            "password="
+        ]
+    },
+    {
+        "branch": "origin/master",
+        "commit": "e280d7737664464e35500d037b5491dfccaa0eaaecf682b9022c6871f0b34200",
+        "commitHash": "8fa5a40a84e19dce2b367cec167906c4852108be",
+        "diff": "cb0ac6ef438efd4486f3a9103cbf9b5bb9a7b835b91a1ec5a927211a5e05957b",
+        "path": "update_password.sh",
+        "printDiff": "b7d2e72d947dfd1f55a12599374efe4a934923d960a29cfdb6ff06efbf13a30f",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password=",
+            "password\" ==",
+            "password_hashed="
+        ]
+    },
+    {
+        "branch": "origin/remotes/origin/trufflehog_test",
+        "commit": "fa223903e6f8c93054f7e7cc6c3836778e44ee5662d9872d2c8932e2f28cb209",
+        "commitHash": "c7cbc1d02577487c604cb2fa70bf65f6524cde00",
+        "diff": "8d7709530f2d5673c5597dd07d8338d2681bc5da7f35f474dc5de62d35889146",
+        "path": "auth-user-pass-verify.py",
+        "printDiff": "99b96b23c2ef62d3532de7667f28cc1f7479dc11c12f2be48c10319f58bb9b42",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password =",
+            "passwd_csv_file =",
+            "password=",
+            "passwd_csv_file=",
+            "passwd_hashed=",
+            "password, hashed) ==",
+            "password, valid_window=",
+            "password, hashed) =="
+        ]
+    },
+    {
+        "branch": "origin/remotes/origin/trufflehog_test",
+        "commit": "fa223903e6f8c93054f7e7cc6c3836778e44ee5662d9872d2c8932e2f28cb209",
+        "commitHash": "c7cbc1d02577487c604cb2fa70bf65f6524cde00",
+        "diff": "f2e11f4cbddb9025fba67e2ae26f7b72da206e007ff1e859acbe5a0351aafd9f",
+        "path": "auth-user-pass-verify.sh",
+        "printDiff": "957822d638ce632918bce2ff3eadfe86306520fe5ca07d199eb08036828c5f64",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password_hashed=",
+            "password=\\\"${password}\\\";hashed=\\\"${passwd_hash}\\\"; print( bcrypt.hashpw(password, hashed) ==",
+            "passwd_hash="
+        ]
+    },
+    {
+        "branch": "origin/remotes/origin/trufflehog_test",
+        "commit": "8863c2b5926ab87311121ab0b79e96be4dda8d0b310eff36ffe846b7f6f54bba",
+        "commitHash": "55edf7a4aaa17bb38cc4007bd16a727ee6680cd8",
+        "diff": "dca35ef00fc4cadf00aa95bce29c83f5ba63b51acb2903de94f87e28976ded32",
+        "path": "update_password.sh",
+        "printDiff": "b7d2e72d947dfd1f55a12599374efe4a934923d960a29cfdb6ff06efbf13a30f",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password_hashed=",
+            "password=",
+            "password_hashed="
+        ]
+    },
+    {
+        "branch": "origin/remotes/origin/trufflehog_test",
+        "commit": "b86fe40501185e4ee2db780ccb0bf3ac4df84a814c597b462f0ad46478921235",
+        "commitHash": "70944fe5d41751488dbb1ea09758870f12c4ef1a",
+        "diff": "9c790523c2b271acf6a8d661585bc4cdd750ea147dcfa1eecb61beec5cd39561",
+        "path": "update_password.sh",
+        "printDiff": "b7d2e72d947dfd1f55a12599374efe4a934923d960a29cfdb6ff06efbf13a30f",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password=",
+            "password_hashed=",
+            "password_hashed="
+        ]
+    },
+    {
+        "branch": "origin/remotes/origin/trufflehog_test",
+        "commit": "815d196bc9eb98aec9e656777bf13e142021fe2d38b7c6c0637681a6f7a26c43",
+        "commitHash": "e2307dbf7df6d2dae0d859baeabd6d1adcf076c3",
+        "diff": "ba7b9b2690ee6841537a2c440511ab6a41652664670aee6ea6ae8eb9083784d8",
+        "path": "reset_password.sh",
+        "printDiff": "373e82e7df07d339c2bee59a9c7e892af5157d8e860bf569e61e5cd83a354707",
+        "reason": "Generic Password",
+        "stringsFound": [
+            "password=$(perl -e 'my $string; my @chars=(\"A\"..\"Z\",\"a\"..\"z\",\"@\",\"_\",\"-\"); while ( not $string ="
+        ]
     }
 ]
